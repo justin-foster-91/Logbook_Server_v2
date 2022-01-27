@@ -72,6 +72,8 @@ const processData = (data) => {
       "specialAbility": specialAbility
     })
   })
+
+  // TODO: parsing of sourceText for SFS legal sources
   
 
   // console.log(baseFrameJSON[9]);
